@@ -1,2 +1,2 @@
 # KotlinAdmob
-android add admob with kotlin
+android add Admob with kotlin
